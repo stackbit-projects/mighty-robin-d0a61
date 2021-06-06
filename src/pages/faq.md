@@ -8,9 +8,12 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+### Do I need XYZ?
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+No
 
-- Lorem ipsum
-- dolor sit amet
+
+
+## Will you do XYZ?
+
+Yes
