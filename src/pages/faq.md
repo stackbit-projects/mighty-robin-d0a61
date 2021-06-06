@@ -8,12 +8,10 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-### Do I need XYZ?
+### Do I need \__\_?
 
 No
 
-
-
-## Will you do XYZ?
+### Will you do \__\_?
 
 Yes
