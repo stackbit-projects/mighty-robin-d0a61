@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: FAQ
 seo:
   title: ''
   description: ''
