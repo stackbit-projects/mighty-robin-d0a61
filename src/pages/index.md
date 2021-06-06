@@ -82,7 +82,6 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  description: The preview of the Starter theme
   extra:
     - name: 'og:type'
       value: website
