@@ -86,9 +86,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Starter theme
-      keyName: property
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
