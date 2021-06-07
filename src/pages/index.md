@@ -81,6 +81,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
+  - type: contact_section
 seo:
   extra:
     - name: 'og:type'
