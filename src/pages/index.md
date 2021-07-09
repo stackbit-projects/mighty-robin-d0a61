@@ -20,7 +20,7 @@ sections:
     has_background: true
     background:
       background_color: gray
-      background_image: images/pietro-de-grandi-ZLcZlM0gi_c-unsplash.jpg
+      background_image: images/valentin-b-kremer-xZyeRwQGKk4-unsplash.jpg
       background_image_opacity: 50
       background_image_size: cover
       background_image_repeat: no-repeat
