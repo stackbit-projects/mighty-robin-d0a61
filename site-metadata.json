@@ -30,7 +30,7 @@
             },
             {
                 "label": "Log in",
-                "url": "#",
+                "url": "/login",
                 "style": "primary",
                 "new_window": false,
                 "no_follow": false,
