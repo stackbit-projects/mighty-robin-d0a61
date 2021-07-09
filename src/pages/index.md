@@ -21,7 +21,7 @@ sections:
       background_color: white
       background_image: images/valentin-b-kremer-xZyeRwQGKk4-unsplash.jpg
       background_image_opacity: 75
-      background_image_size: auto
+      background_image_size: contain
       background_image_repeat: no-repeat
   - type: features_section
     title: Features
